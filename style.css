@@ -1,0 +1,35 @@
+.page-title {
+    color: red;
+    font-family: "Verdana", "Arial", sans-serif;
+}
+
+.link-list {
+    font-weight:lighter;
+}
+
+.main-image {
+    width: 300px;
+    height: auto;
+}
+
+h2 {
+    color: blue;
+    font-family: "Verdana", "Arial", sans-serif;
+}
+
+p {
+    font-family: "Verdana", "Arial", sans-serif;
+}
+
+ul {
+    font-family: "Verdana", "Arial", sans-serif;
+    font-weight:bold;
+}
+
+ol {
+    font-family: "Verdana", "Arial", sans-serif;
+}
+
+a {
+    font-family: "Verdana", "Arial", sans-serif;
+}
