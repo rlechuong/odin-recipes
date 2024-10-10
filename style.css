@@ -1,6 +1,24 @@
-.page-title {
-    color: red;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #121212;
+}
+
+h1 {
+    color: #FF7575;
     font-family: "Verdana", "Arial", sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+
+.navigation {
+    text-align: center;
+}
+
+.nav-link {
+    margin: 5px;
+    display: inline-block;
 }
 
 .link-list {
@@ -13,23 +31,27 @@
 }
 
 h2 {
-    color: blue;
+    color: #949BFF;
     font-family: "Verdana", "Arial", sans-serif;
 }
 
 p {
+    color: #A1A1A1;
     font-family: "Verdana", "Arial", sans-serif;
 }
 
 ul {
+    color: #A1A1A1;
     font-family: "Verdana", "Arial", sans-serif;
     font-weight:bold;
 }
 
 ol {
+    color: #A1A1A1;
     font-family: "Verdana", "Arial", sans-serif;
 }
 
 a {
+    color: #E175FF;
     font-family: "Verdana", "Arial", sans-serif;
 }
