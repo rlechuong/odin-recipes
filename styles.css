@@ -1,0 +1,17 @@
+* {
+    font-family: "Arial", sans-serif;
+    background-color: #121212;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+h1 {
+    color: #9494FF;
+}
+
+h2, h3 {
+    color: #FF7575;
+}
+
+a {
+    color: #FF52FF;
+}
