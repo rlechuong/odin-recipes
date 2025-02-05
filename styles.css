@@ -15,3 +15,12 @@ h2, h3 {
 a {
     color: #FF52FF;
 }
+
+.navigation {
+    margin: 20px 0px;
+}
+
+.link {
+    display: inline-block;
+    margin-right: 10px;
+}
